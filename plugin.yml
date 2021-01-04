@@ -1,0 +1,8 @@
+name: PlugStatics
+main: me.smok.plugstatics.main
+version: 1.0
+author: SmokPlay
+description: statics og plug-mc!
+commands:
+  plugst:
+     description: for more information

@@ -1,0 +1,5 @@
+host: 'mcmysql.fallout-hosting.com'
+database: 'fh_6467'
+user: 'fh_6467'
+pass: 'd916c59e95'   
+msg_reload: '&7PlugStatics configuracion recargada'
